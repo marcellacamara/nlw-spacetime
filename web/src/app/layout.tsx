@@ -14,7 +14,7 @@ const roboto = Roboto({
 
 const baiJamjuree = BaiJamjuree({
   subsets: ["latin"],
-  weight: "700",
+  weight: "600",
   variable: "--font-bai-jamjuree",
   display: "swap",
   // preload: false,
