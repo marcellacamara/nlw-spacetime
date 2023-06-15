@@ -9,7 +9,7 @@ const roboto = Roboto({
   subsets: ["latin"],
   variable: "--font-roboto",
   display: "swap",
-  // preload: false,
+  preload: false,
 });
 
 const baiJamjuree = BaiJamjuree({
@@ -17,7 +17,7 @@ const baiJamjuree = BaiJamjuree({
   weight: "600",
   variable: "--font-bai-jamjuree",
   display: "swap",
-  // preload: false,
+  preload: false,
 });
 
 export const metadata = {
